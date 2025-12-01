@@ -9,7 +9,11 @@ const logger = require('./utils/logger');
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: "https://dazzling-kheer-965655.netlify.app",
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  allowedHeaders: ["Content-Type", "Authorization"]
+}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 

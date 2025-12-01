@@ -51,31 +51,31 @@ Step-by-step setup guide:
 
 ## Implementation Roadmap
 
-### Phase 1: Setup (Week 1)
+### Phase 1: Setup 
 - [ ] Create Supabase project
 - [ ] Run database migrations
 - [ ] Configure environment variables
 - [ ] Set up development environment
 
-### Phase 2: Core Services (Week 2)
+### Phase 2: Core Services
 - [ ] Implement scraper service
 - [ ] Create data processor
 - [ ] Set up job scheduler
 - [ ] Implement error handling
 
-### Phase 3: API Layer (Week 3)
+### Phase 3: API Layer
 - [ ] Create custom RPC functions
 - [ ] Implement analytics endpoints
 - [ ] Add filtering and sorting
 - [ ] Set up API documentation
 
-### Phase 4: Optimization (Week 4)
+### Phase 4: Optimization
 - [ ] Configure aggregation jobs
 - [ ] Implement caching
 - [ ] Optimize queries
 - [ ] Set up monitoring
 
-### Phase 5: Testing & Deployment (Week 5)
+### Phase 5: Testing & Deployment 
 - [ ] Unit tests
 - [ ] Integration tests
 - [ ] Performance testing

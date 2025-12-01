@@ -1,0 +1,793 @@
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T14:20:01.484Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T14:30:02.649Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T14:40:01.969Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T14:50:02.137Z"}
+{"code":"PGRST202","details":"Searched for the function public.aggregate_hourly_analytics without parameters or with a single unnamed json/jsonb parameter, but no matches were found in the schema cache.","hint":null,"level":"error","message":"Error running hourly aggregation: Could not find the function public.aggregate_hourly_analytics without parameters in the schema cache","timestamp":"2025-11-30T15:00:01.220Z"}
+{"code":"PGRST202","details":"Searched for the function public.aggregate_hourly_analytics without parameters or with a single unnamed json/jsonb parameter, but no matches were found in the schema cache.","hint":null,"level":"error","message":"Error in hourly aggregation: Could not find the function public.aggregate_hourly_analytics without parameters in the schema cache","timestamp":"2025-11-30T15:00:01.220Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:00:01.962Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:10:02.132Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:16:22.397Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:16:22.398Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:16:59.469Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:16:59.469Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:16:59.607Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:16:59.607Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:17:03.512Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:17:03.513Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:17:03.659Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:17:03.659Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:19:15.477Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:19:15.478Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:19:15.640Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:19:15.640Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:19:46.140Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:19:46.141Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching all events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:19:46.310Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error in getAllEvents: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:19:46.310Z"}
+{"code":"PGRST205","details":null,"hint":null,"level":"error","message":"Error fetching events: Could not find the table 'public.events' in the schema cache","timestamp":"2025-11-30T15:20:01.220Z"}
+{"hint":"Double check your Supabase `anon` or `service_role` API key.","level":"error","message":"Error fetching all events: Invalid API key","timestamp":"2025-11-30T15:24:01.498Z"}
+{"hint":"Double check your Supabase `anon` or `service_role` API key.","level":"error","message":"Error in getAllEvents: Invalid API key","timestamp":"2025-11-30T15:24:01.498Z"}
+{"hint":"Double check your Supabase `anon` or `service_role` API key.","level":"error","message":"Error fetching all events: Invalid API key","timestamp":"2025-11-30T15:26:32.183Z"}
+{"hint":"Double check your Supabase `anon` or `service_role` API key.","level":"error","message":"Error in getAllEvents: Invalid API key","timestamp":"2025-11-30T15:26:32.184Z"}
+{"hint":"Double check your Supabase `anon` or `service_role` API key.","level":"error","message":"Error fetching all events: Invalid API key","timestamp":"2025-11-30T15:26:49.055Z"}
+{"hint":"Double check your Supabase `anon` or `service_role` API key.","level":"error","message":"Error in getAllEvents: Invalid API key","timestamp":"2025-11-30T15:26:49.056Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T15:30:01.722Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 1: numeric field overflow","timestamp":"2025-11-30T15:30:02.005Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 86d99d11-bb0b-4ba9-9f1c-2432de86d08f: numeric field overflow","timestamp":"2025-11-30T15:30:02.006Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T15:30:03.251Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 2: numeric field overflow","timestamp":"2025-11-30T15:30:03.538Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3ab194da-2266-4136-9c97-6732a61f0022: numeric field overflow","timestamp":"2025-11-30T15:30:03.539Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T15:30:05.335Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 3: numeric field overflow","timestamp":"2025-11-30T15:30:05.615Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 698dbf9a-f7be-4985-b892-c699f51a1476: numeric field overflow","timestamp":"2025-11-30T15:30:05.616Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T15:40:01.717Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T15:40:03.185Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 4: numeric field overflow","timestamp":"2025-11-30T15:40:03.468Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 86d99d11-bb0b-4ba9-9f1c-2432de86d08f: numeric field overflow","timestamp":"2025-11-30T15:40:03.468Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T15:40:05.175Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 5: numeric field overflow","timestamp":"2025-11-30T15:40:05.456Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3ab194da-2266-4136-9c97-6732a61f0022: numeric field overflow","timestamp":"2025-11-30T15:40:05.457Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T15:40:07.181Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T15:40:09.178Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T15:40:11.234Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 6: numeric field overflow","timestamp":"2025-11-30T15:40:11.526Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 698dbf9a-f7be-4985-b892-c699f51a1476: numeric field overflow","timestamp":"2025-11-30T15:40:11.527Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T15:40:13.183Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T15:40:15.189Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 7: numeric field overflow","timestamp":"2025-11-30T15:40:15.459Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 2f952881-a813-4efc-8fe1-6d9d954655d9: numeric field overflow","timestamp":"2025-11-30T15:40:15.460Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T15:40:17.204Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T15:40:19.204Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T15:40:21.202Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T15:40:23.552Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T15:40:25.567Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T15:40:27.660Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T15:40:29.964Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T15:40:32.041Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T15:40:34.090Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 10: numeric field overflow","timestamp":"2025-11-30T15:40:34.375Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event fa8a6c3c-3752-4905-a041-4e1679908aea: numeric field overflow","timestamp":"2025-11-30T15:40:34.375Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T15:40:36.158Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 11: numeric field overflow","timestamp":"2025-11-30T15:40:36.441Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 499a8fe1-216b-495a-a839-37bf289961b3: numeric field overflow","timestamp":"2025-11-30T15:40:36.442Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T15:40:38.217Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T15:40:40.013Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T15:40:42.384Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 12: numeric field overflow","timestamp":"2025-11-30T15:40:42.664Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 96c85ffc-02f6-40bb-838e-22cc53c9011f: numeric field overflow","timestamp":"2025-11-30T15:40:42.664Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T15:40:44.044Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T15:40:46.060Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T15:40:48.463Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T15:40:50.925Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 14: numeric field overflow","timestamp":"2025-11-30T15:40:51.213Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 75858755-ef26-4459-a572-fde948dd22e0: numeric field overflow","timestamp":"2025-11-30T15:40:51.213Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T15:40:52.934Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T15:40:54.941Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T15:40:57.725Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 15: numeric field overflow","timestamp":"2025-11-30T15:40:58.013Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3f8c258b-739c-4787-ab90-e9e479ad56d3: numeric field overflow","timestamp":"2025-11-30T15:40:58.014Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T15:40:58.955Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T15:41:00.960Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T15:41:03.433Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 16: numeric field overflow","timestamp":"2025-11-30T15:41:03.725Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event f6d9edb7-7333-4e91-811f-3e4d0e742ba5: numeric field overflow","timestamp":"2025-11-30T15:41:03.725Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T15:41:04.965Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T15:41:09.274Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T15:41:11.728Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T15:41:14.032Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T15:41:16.546Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T15:41:18.104Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 18: numeric field overflow","timestamp":"2025-11-30T15:41:18.390Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ea4d17ff-fc98-45d1-9489-2f6af7a612e6: numeric field overflow","timestamp":"2025-11-30T15:41:18.391Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T15:41:20.068Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T15:41:22.551Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 19: numeric field overflow","timestamp":"2025-11-30T15:41:22.835Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 47e918bd-9318-4ba2-a194-b019a776cfdb: numeric field overflow","timestamp":"2025-11-30T15:41:22.836Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T15:41:24.168Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 20: numeric field overflow","timestamp":"2025-11-30T15:41:24.470Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0cfc8310-0e24-42a9-87e6-f669380f674b: numeric field overflow","timestamp":"2025-11-30T15:41:24.471Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T15:41:26.079Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T15:41:28.087Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 21: numeric field overflow","timestamp":"2025-11-30T15:41:28.382Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 74f92836-f44c-4d7a-91aa-e8c88db1af69: numeric field overflow","timestamp":"2025-11-30T15:41:28.382Z"}
+{"code":"PGRST116","details":"The result contains 0 rows","hint":null,"level":"error","message":"Error fetching ticket summary: Cannot coerce the result to a single JSON object","timestamp":"2025-11-30T15:43:13.278Z"}
+{"code":"PGRST116","details":"The result contains 0 rows","hint":null,"level":"error","message":"Error in getCurrentSummary: Cannot coerce the result to a single JSON object","timestamp":"2025-11-30T15:43:13.279Z"}
+{"code":"PGRST116","details":"The result contains 0 rows","hint":null,"level":"error","message":"Error fetching ticket summary: Cannot coerce the result to a single JSON object","timestamp":"2025-11-30T15:53:15.348Z"}
+{"code":"PGRST116","details":"The result contains 0 rows","hint":null,"level":"error","message":"Error in getCurrentSummary: Cannot coerce the result to a single JSON object","timestamp":"2025-11-30T15:53:15.349Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T16:00:02.104Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 22: numeric field overflow","timestamp":"2025-11-30T16:00:02.445Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 86d99d11-bb0b-4ba9-9f1c-2432de86d08f: numeric field overflow","timestamp":"2025-11-30T16:00:02.445Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:00:03.747Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:00:05.979Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:00:07.774Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:00:10.239Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:00:12.296Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 24: numeric field overflow","timestamp":"2025-11-30T16:00:12.595Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 698dbf9a-f7be-4985-b892-c699f51a1476: numeric field overflow","timestamp":"2025-11-30T16:00:12.596Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:00:14.255Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:00:21.255Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 25: numeric field overflow","timestamp":"2025-11-30T16:00:21.630Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 2f952881-a813-4efc-8fe1-6d9d954655d9: numeric field overflow","timestamp":"2025-11-30T16:00:21.630Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:00:22.369Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 26: numeric field overflow","timestamp":"2025-11-30T16:00:22.656Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 7f84fc1a-3754-4955-8050-4488a6febd9a: numeric field overflow","timestamp":"2025-11-30T16:00:22.657Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:00:24.289Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 27: numeric field overflow","timestamp":"2025-11-30T16:00:24.577Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ffe37c45-5334-4c23-8e15-880710943cef: numeric field overflow","timestamp":"2025-11-30T16:00:24.577Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:00:26.249Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:00:28.244Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:00:30.266Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:00:32.661Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:00:34.698Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:00:37.136Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:00:39.476Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:00:41.451Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:00:43.480Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:00:45.799Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:00:47.790Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:00:49.794Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 31: numeric field overflow","timestamp":"2025-11-30T16:00:50.075Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 08e737d2-f190-44e7-a137-e9a81db45412: numeric field overflow","timestamp":"2025-11-30T16:00:50.075Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:00:51.805Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 32: numeric field overflow","timestamp":"2025-11-30T16:00:52.096Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 75858755-ef26-4459-a572-fde948dd22e0: numeric field overflow","timestamp":"2025-11-30T16:00:52.096Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T16:00:53.845Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 33: numeric field overflow","timestamp":"2025-11-30T16:00:54.133Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3f8c258b-739c-4787-ab90-e9e479ad56d3: numeric field overflow","timestamp":"2025-11-30T16:00:54.133Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:00:55.804Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:00:57.842Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 34: numeric field overflow","timestamp":"2025-11-30T16:00:58.139Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event f6d9edb7-7333-4e91-811f-3e4d0e742ba5: numeric field overflow","timestamp":"2025-11-30T16:00:58.139Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:00:59.826Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 35: numeric field overflow","timestamp":"2025-11-30T16:01:00.107Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event c631aea5-48c0-40ca-8a33-ad1b9180ae16: numeric field overflow","timestamp":"2025-11-30T16:01:00.107Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:01:01.839Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:01:03.838Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 36: numeric field overflow","timestamp":"2025-11-30T16:01:04.148Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ea4d17ff-fc98-45d1-9489-2f6af7a612e6: numeric field overflow","timestamp":"2025-11-30T16:01:04.148Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:01:05.838Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:01:07.857Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:01:09.883Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T16:01:12.224Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 38: numeric field overflow","timestamp":"2025-11-30T16:01:12.517Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0cfc8310-0e24-42a9-87e6-f669380f674b: numeric field overflow","timestamp":"2025-11-30T16:01:12.518Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T16:01:14.247Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 39: numeric field overflow","timestamp":"2025-11-30T16:01:14.521Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 74f92836-f44c-4d7a-91aa-e8c88db1af69: numeric field overflow","timestamp":"2025-11-30T16:01:14.521Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T16:10:01.525Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 40: numeric field overflow","timestamp":"2025-11-30T16:10:01.845Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 86d99d11-bb0b-4ba9-9f1c-2432de86d08f: numeric field overflow","timestamp":"2025-11-30T16:10:01.846Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:10:03.261Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:10:05.280Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 41: numeric field overflow","timestamp":"2025-11-30T16:10:05.568Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3ab194da-2266-4136-9c97-6732a61f0022: numeric field overflow","timestamp":"2025-11-30T16:10:05.568Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:10:07.301Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 42: numeric field overflow","timestamp":"2025-11-30T16:10:07.595Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 698dbf9a-f7be-4985-b892-c699f51a1476: numeric field overflow","timestamp":"2025-11-30T16:10:07.596Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:10:09.304Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:10:11.743Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 43: numeric field overflow","timestamp":"2025-11-30T16:10:12.018Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 2f952881-a813-4efc-8fe1-6d9d954655d9: numeric field overflow","timestamp":"2025-11-30T16:10:12.018Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:10:13.377Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 44: numeric field overflow","timestamp":"2025-11-30T16:10:13.685Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 7f84fc1a-3754-4955-8050-4488a6febd9a: numeric field overflow","timestamp":"2025-11-30T16:10:13.690Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:10:15.321Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 45: numeric field overflow","timestamp":"2025-11-30T16:10:15.611Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ffe37c45-5334-4c23-8e15-880710943cef: numeric field overflow","timestamp":"2025-11-30T16:10:15.611Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:10:17.697Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:10:19.377Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:10:21.491Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:10:23.715Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:10:25.780Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:10:27.769Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 47: numeric field overflow","timestamp":"2025-11-30T16:10:28.053Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 499a8fe1-216b-495a-a839-37bf289961b3: numeric field overflow","timestamp":"2025-11-30T16:10:28.085Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:10:29.809Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:10:31.751Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 48: numeric field overflow","timestamp":"2025-11-30T16:10:32.029Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 96c85ffc-02f6-40bb-838e-22cc53c9011f: numeric field overflow","timestamp":"2025-11-30T16:10:32.030Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:10:33.881Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 49: numeric field overflow","timestamp":"2025-11-30T16:10:34.161Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 08e737d2-f190-44e7-a137-e9a81db45412: numeric field overflow","timestamp":"2025-11-30T16:10:34.161Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:10:35.776Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:10:37.798Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:10:39.785Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 50: numeric field overflow","timestamp":"2025-11-30T16:10:40.057Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 75858755-ef26-4459-a572-fde948dd22e0: numeric field overflow","timestamp":"2025-11-30T16:10:40.058Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T16:10:41.786Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T16:20:02.091Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 52: numeric field overflow","timestamp":"2025-11-30T16:20:02.388Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 86d99d11-bb0b-4ba9-9f1c-2432de86d08f: numeric field overflow","timestamp":"2025-11-30T16:20:02.388Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:20:03.583Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:20:05.616Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 53: numeric field overflow","timestamp":"2025-11-30T16:20:05.901Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3ab194da-2266-4136-9c97-6732a61f0022: numeric field overflow","timestamp":"2025-11-30T16:20:05.901Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:20:07.587Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:20:09.622Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:20:11.630Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:20:13.993Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:20:15.990Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 55: numeric field overflow","timestamp":"2025-11-30T16:20:16.282Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 2f952881-a813-4efc-8fe1-6d9d954655d9: numeric field overflow","timestamp":"2025-11-30T16:20:16.282Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:20:17.993Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:20:19.984Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 56: numeric field overflow","timestamp":"2025-11-30T16:20:20.270Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 7f84fc1a-3754-4955-8050-4488a6febd9a: numeric field overflow","timestamp":"2025-11-30T16:20:20.271Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:20:22.156Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 57: numeric field overflow","timestamp":"2025-11-30T16:20:22.448Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ffe37c45-5334-4c23-8e15-880710943cef: numeric field overflow","timestamp":"2025-11-30T16:20:22.449Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:20:24.010Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:20:26.051Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 58: numeric field overflow","timestamp":"2025-11-30T16:20:26.336Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event fa8a6c3c-3752-4905-a041-4e1679908aea: numeric field overflow","timestamp":"2025-11-30T16:20:26.337Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:20:28.022Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:20:30.033Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:20:32.025Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 59: numeric field overflow","timestamp":"2025-11-30T16:20:32.307Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 499a8fe1-216b-495a-a839-37bf289961b3: numeric field overflow","timestamp":"2025-11-30T16:20:32.307Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:20:34.536Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 60: numeric field overflow","timestamp":"2025-11-30T16:20:34.818Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 96c85ffc-02f6-40bb-838e-22cc53c9011f: numeric field overflow","timestamp":"2025-11-30T16:20:34.819Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:20:36.057Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 61: numeric field overflow","timestamp":"2025-11-30T16:20:36.327Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 08e737d2-f190-44e7-a137-e9a81db45412: numeric field overflow","timestamp":"2025-11-30T16:20:36.327Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:20:38.183Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:20:40.065Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:20:42.070Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T16:20:44.421Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 63: numeric field overflow","timestamp":"2025-11-30T16:20:44.702Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3f8c258b-739c-4787-ab90-e9e479ad56d3: numeric field overflow","timestamp":"2025-11-30T16:20:44.702Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:20:46.447Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:20:48.427Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:20:50.425Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:20:52.756Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:20:55.243Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:20:56.750Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 65: numeric field overflow","timestamp":"2025-11-30T16:20:57.037Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event c631aea5-48c0-40ca-8a33-ad1b9180ae16: numeric field overflow","timestamp":"2025-11-30T16:20:57.037Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:20:58.822Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 66: numeric field overflow","timestamp":"2025-11-30T16:20:59.110Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ea4d17ff-fc98-45d1-9489-2f6af7a612e6: numeric field overflow","timestamp":"2025-11-30T16:20:59.110Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:21:00.752Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:21:02.790Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:21:04.781Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 67: numeric field overflow","timestamp":"2025-11-30T16:21:05.062Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 47e918bd-9318-4ba2-a194-b019a776cfdb: numeric field overflow","timestamp":"2025-11-30T16:21:05.063Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T16:21:06.786Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T16:21:08.786Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 68: numeric field overflow","timestamp":"2025-11-30T16:21:09.075Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0cfc8310-0e24-42a9-87e6-f669380f674b: numeric field overflow","timestamp":"2025-11-30T16:21:09.075Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T16:21:10.829Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 69: numeric field overflow","timestamp":"2025-11-30T16:21:11.116Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 74f92836-f44c-4d7a-91aa-e8c88db1af69: numeric field overflow","timestamp":"2025-11-30T16:21:11.122Z"}
+{"level":"error","message":"Error fetching VividSeats data for edded757-da88-42e7-b028-44cd5e83f716:","timestamp":"2025-11-30T16:21:12.794Z"}
+{"level":"error","message":"Error fetching VividSeats data for edded757-da88-42e7-b028-44cd5e83f716:","timestamp":"2025-11-30T16:21:15.364Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 70: numeric field overflow","timestamp":"2025-11-30T16:21:15.642Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event edded757-da88-42e7-b028-44cd5e83f716: numeric field overflow","timestamp":"2025-11-30T16:21:15.643Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:21:16.807Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 71: numeric field overflow","timestamp":"2025-11-30T16:21:17.122Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 89c985d1-b12f-4bff-b42c-08bb8d4cd621: numeric field overflow","timestamp":"2025-11-30T16:21:17.122Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:21:18.818Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:21:20.936Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:21:22.850Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:21:25.170Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:21:27.177Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:21:29.218Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:21:31.556Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:21:33.568Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:21:35.642Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 74: numeric field overflow","timestamp":"2025-11-30T16:21:35.925Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 05f48baa-a0a6-4384-8483-a16dedcd0cac: numeric field overflow","timestamp":"2025-11-30T16:21:35.925Z"}
+{"level":"error","message":"Error fetching VividSeats data for db2b4b36-b383-47da-b7d7-ba6c470c9aa5:","timestamp":"2025-11-30T16:21:37.577Z"}
+{"level":"error","message":"Error fetching VividSeats data for db2b4b36-b383-47da-b7d7-ba6c470c9aa5:","timestamp":"2025-11-30T16:21:39.596Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 75: numeric field overflow","timestamp":"2025-11-30T16:21:39.876Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event db2b4b36-b383-47da-b7d7-ba6c470c9aa5: numeric field overflow","timestamp":"2025-11-30T16:21:39.877Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:21:41.585Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 76: numeric field overflow","timestamp":"2025-11-30T16:21:41.872Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 6a9c09ce-54ea-4079-8fc0-3e831882c011: numeric field overflow","timestamp":"2025-11-30T16:21:41.873Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:21:43.592Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 77: numeric field overflow","timestamp":"2025-11-30T16:21:44.184Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 981707bc-8719-4d9b-ade5-442c8d470b32: numeric field overflow","timestamp":"2025-11-30T16:21:44.194Z"}
+{"level":"error","message":"Error fetching VividSeats data for e2b3ab85-3f00-4a3b-aa97-08b4e2bea215:","timestamp":"2025-11-30T16:21:45.601Z"}
+{"level":"error","message":"Error fetching VividSeats data for e2b3ab85-3f00-4a3b-aa97-08b4e2bea215:","timestamp":"2025-11-30T16:21:47.623Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 78: numeric field overflow","timestamp":"2025-11-30T16:21:47.905Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event e2b3ab85-3f00-4a3b-aa97-08b4e2bea215: numeric field overflow","timestamp":"2025-11-30T16:21:47.905Z"}
+{"level":"error","message":"Error fetching VividSeats data for 1d2ec49c-ec98-4712-9a14-3c9a3522d132:","timestamp":"2025-11-30T16:21:49.614Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 79: numeric field overflow","timestamp":"2025-11-30T16:21:49.903Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 1d2ec49c-ec98-4712-9a14-3c9a3522d132: numeric field overflow","timestamp":"2025-11-30T16:21:49.903Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0263cb2a-f55e-432e-b68e-bba63c6c1593:","timestamp":"2025-11-30T16:21:51.672Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 80: numeric field overflow","timestamp":"2025-11-30T16:21:51.955Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0263cb2a-f55e-432e-b68e-bba63c6c1593: numeric field overflow","timestamp":"2025-11-30T16:21:51.956Z"}
+{"level":"error","message":"Error fetching VividSeats data for e43cd228-2b97-4535-94e8-0576ec8e9dbe:","timestamp":"2025-11-30T16:21:53.630Z"}
+{"level":"error","message":"Error fetching VividSeats data for e43cd228-2b97-4535-94e8-0576ec8e9dbe:","timestamp":"2025-11-30T16:22:00.633Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 81: numeric field overflow","timestamp":"2025-11-30T16:22:00.995Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event e43cd228-2b97-4535-94e8-0576ec8e9dbe: numeric field overflow","timestamp":"2025-11-30T16:22:00.996Z"}
+{"level":"error","message":"Error fetching VividSeats data for d95fb8d1-2969-48d8-84a7-48ae377931ae:","timestamp":"2025-11-30T16:22:01.606Z"}
+{"level":"error","message":"Error fetching VividSeats data for d95fb8d1-2969-48d8-84a7-48ae377931ae:","timestamp":"2025-11-30T16:22:03.565Z"}
+{"level":"error","message":"Error fetching VividSeats data for d95fb8d1-2969-48d8-84a7-48ae377931ae:","timestamp":"2025-11-30T16:22:05.646Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:22:07.956Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:22:09.959Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:22:11.959Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:22:14.278Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:22:16.281Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:22:18.294Z"}
+{"level":"error","message":"Error fetching VividSeats data for a426f95a-44fd-4459-82e1-0556dedc5009:","timestamp":"2025-11-30T16:22:20.669Z"}
+{"level":"error","message":"Error fetching VividSeats data for a426f95a-44fd-4459-82e1-0556dedc5009:","timestamp":"2025-11-30T16:22:22.751Z"}
+{"level":"error","message":"Error fetching VividSeats data for a426f95a-44fd-4459-82e1-0556dedc5009:","timestamp":"2025-11-30T16:22:24.667Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:22:27.050Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:22:29.056Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:22:30.990Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:22:33.296Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:22:35.309Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:22:37.308Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 87: numeric field overflow","timestamp":"2025-11-30T16:22:37.590Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event c9ff0f32-76b7-4851-89c0-639bc952f903: numeric field overflow","timestamp":"2025-11-30T16:22:37.590Z"}
+{"level":"error","message":"Error fetching VividSeats data for eece1f0d-e6fe-4864-9961-a010bb43622d:","timestamp":"2025-11-30T16:22:39.360Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 88: numeric field overflow","timestamp":"2025-11-30T16:22:39.641Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event eece1f0d-e6fe-4864-9961-a010bb43622d: numeric field overflow","timestamp":"2025-11-30T16:22:39.642Z"}
+{"level":"error","message":"Error fetching VividSeats data for 12eb6a9e-6b9b-488b-97f7-62bbef78b07f:","timestamp":"2025-11-30T16:22:41.329Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 89: numeric field overflow","timestamp":"2025-11-30T16:22:41.615Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 12eb6a9e-6b9b-488b-97f7-62bbef78b07f: numeric field overflow","timestamp":"2025-11-30T16:22:41.615Z"}
+{"level":"error","message":"Error fetching VividSeats data for 59d615cb-125a-4476-bb32-c450ae09f192:","timestamp":"2025-11-30T16:22:43.326Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 90: numeric field overflow","timestamp":"2025-11-30T16:22:43.609Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 59d615cb-125a-4476-bb32-c450ae09f192: numeric field overflow","timestamp":"2025-11-30T16:22:43.609Z"}
+{"level":"error","message":"Error fetching VividSeats data for ca3efe03-8b15-46a4-b486-0ac7e4b6f63c:","timestamp":"2025-11-30T16:22:45.342Z"}
+{"level":"error","message":"Error fetching VividSeats data for ca3efe03-8b15-46a4-b486-0ac7e4b6f63c:","timestamp":"2025-11-30T16:22:47.371Z"}
+{"level":"error","message":"Error fetching VividSeats data for ca3efe03-8b15-46a4-b486-0ac7e4b6f63c:","timestamp":"2025-11-30T16:22:49.351Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 91: numeric field overflow","timestamp":"2025-11-30T16:22:49.638Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ca3efe03-8b15-46a4-b486-0ac7e4b6f63c: numeric field overflow","timestamp":"2025-11-30T16:22:49.638Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:22:51.352Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:22:53.361Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:22:55.357Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T16:30:00.976Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 93: numeric field overflow","timestamp":"2025-11-30T16:30:01.263Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 86d99d11-bb0b-4ba9-9f1c-2432de86d08f: numeric field overflow","timestamp":"2025-11-30T16:30:01.264Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:30:02.774Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:30:04.742Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 94: numeric field overflow","timestamp":"2025-11-30T16:30:05.064Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3ab194da-2266-4136-9c97-6732a61f0022: numeric field overflow","timestamp":"2025-11-30T16:30:05.065Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:30:06.753Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:30:08.760Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 95: numeric field overflow","timestamp":"2025-11-30T16:30:09.042Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 698dbf9a-f7be-4985-b892-c699f51a1476: numeric field overflow","timestamp":"2025-11-30T16:30:09.042Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:30:10.763Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 96: numeric field overflow","timestamp":"2025-11-30T16:30:11.042Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 2f952881-a813-4efc-8fe1-6d9d954655d9: numeric field overflow","timestamp":"2025-11-30T16:30:11.043Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:30:12.766Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:30:14.823Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 97: numeric field overflow","timestamp":"2025-11-30T16:30:15.121Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 7f84fc1a-3754-4955-8050-4488a6febd9a: numeric field overflow","timestamp":"2025-11-30T16:30:15.121Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:30:16.807Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:30:18.831Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 98: numeric field overflow","timestamp":"2025-11-30T16:30:19.117Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ffe37c45-5334-4c23-8e15-880710943cef: numeric field overflow","timestamp":"2025-11-30T16:30:19.119Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:30:20.809Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:30:22.962Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 99: numeric field overflow","timestamp":"2025-11-30T16:30:23.249Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event fa8a6c3c-3752-4905-a041-4e1679908aea: numeric field overflow","timestamp":"2025-11-30T16:30:23.249Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:30:25.007Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:30:26.827Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:30:28.832Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 100: numeric field overflow","timestamp":"2025-11-30T16:30:29.107Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 499a8fe1-216b-495a-a839-37bf289961b3: numeric field overflow","timestamp":"2025-11-30T16:30:29.107Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:30:31.094Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 101: numeric field overflow","timestamp":"2025-11-30T16:30:31.405Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 96c85ffc-02f6-40bb-838e-22cc53c9011f: numeric field overflow","timestamp":"2025-11-30T16:30:31.405Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:30:32.837Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 102: numeric field overflow","timestamp":"2025-11-30T16:30:33.117Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 08e737d2-f190-44e7-a137-e9a81db45412: numeric field overflow","timestamp":"2025-11-30T16:30:33.117Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:30:34.852Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:30:36.856Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 103: numeric field overflow","timestamp":"2025-11-30T16:30:37.139Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 75858755-ef26-4459-a572-fde948dd22e0: numeric field overflow","timestamp":"2025-11-30T16:30:37.140Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T16:30:38.874Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 104: numeric field overflow","timestamp":"2025-11-30T16:30:39.153Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3f8c258b-739c-4787-ab90-e9e479ad56d3: numeric field overflow","timestamp":"2025-11-30T16:30:39.153Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:30:40.891Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:30:42.909Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:30:44.895Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 105: numeric field overflow","timestamp":"2025-11-30T16:30:45.445Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event f6d9edb7-7333-4e91-811f-3e4d0e742ba5: numeric field overflow","timestamp":"2025-11-30T16:30:45.446Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:30:47.134Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:30:48.899Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:30:50.944Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:30:53.191Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:30:55.222Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 107: numeric field overflow","timestamp":"2025-11-30T16:30:55.496Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ea4d17ff-fc98-45d1-9489-2f6af7a612e6: numeric field overflow","timestamp":"2025-11-30T16:30:55.497Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:30:57.189Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 108: numeric field overflow","timestamp":"2025-11-30T16:30:57.457Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 47e918bd-9318-4ba2-a194-b019a776cfdb: numeric field overflow","timestamp":"2025-11-30T16:30:57.458Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T16:30:59.200Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 109: numeric field overflow","timestamp":"2025-11-30T16:30:59.477Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0cfc8310-0e24-42a9-87e6-f669380f674b: numeric field overflow","timestamp":"2025-11-30T16:30:59.477Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T16:31:01.226Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T16:31:03.379Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 110: numeric field overflow","timestamp":"2025-11-30T16:31:03.658Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 74f92836-f44c-4d7a-91aa-e8c88db1af69: numeric field overflow","timestamp":"2025-11-30T16:31:03.659Z"}
+{"level":"error","message":"Error fetching VividSeats data for edded757-da88-42e7-b028-44cd5e83f716:","timestamp":"2025-11-30T16:31:05.289Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 111: numeric field overflow","timestamp":"2025-11-30T16:31:05.620Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event edded757-da88-42e7-b028-44cd5e83f716: numeric field overflow","timestamp":"2025-11-30T16:31:05.621Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:31:07.225Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:31:09.209Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:31:11.214Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:31:13.479Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:31:15.474Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 113: numeric field overflow","timestamp":"2025-11-30T16:31:15.750Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 4d193020-a6bc-40e3-ae25-95a77f983953: numeric field overflow","timestamp":"2025-11-30T16:31:15.751Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:31:17.462Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:31:19.995Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:31:21.506Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:31:23.850Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:31:25.841Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:31:27.824Z"}
+{"level":"error","message":"Error fetching VividSeats data for db2b4b36-b383-47da-b7d7-ba6c470c9aa5:","timestamp":"2025-11-30T16:31:30.111Z"}
+{"level":"error","message":"Error fetching VividSeats data for db2b4b36-b383-47da-b7d7-ba6c470c9aa5:","timestamp":"2025-11-30T16:31:32.130Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 116: numeric field overflow","timestamp":"2025-11-30T16:31:32.403Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event db2b4b36-b383-47da-b7d7-ba6c470c9aa5: numeric field overflow","timestamp":"2025-11-30T16:31:32.404Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:31:34.137Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:31:36.113Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 117: numeric field overflow","timestamp":"2025-11-30T16:31:36.408Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 6a9c09ce-54ea-4079-8fc0-3e831882c011: numeric field overflow","timestamp":"2025-11-30T16:31:36.408Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:31:38.118Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:31:40.163Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:31:42.162Z"}
+{"level":"error","message":"Error fetching VividSeats data for e2b3ab85-3f00-4a3b-aa97-08b4e2bea215:","timestamp":"2025-11-30T16:31:44.433Z"}
+{"level":"error","message":"Error fetching VividSeats data for e2b3ab85-3f00-4a3b-aa97-08b4e2bea215:","timestamp":"2025-11-30T16:31:46.433Z"}
+{"level":"error","message":"Error fetching VividSeats data for e2b3ab85-3f00-4a3b-aa97-08b4e2bea215:","timestamp":"2025-11-30T16:31:48.440Z"}
+{"level":"error","message":"Error fetching VividSeats data for 1d2ec49c-ec98-4712-9a14-3c9a3522d132:","timestamp":"2025-11-30T16:31:50.715Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 120: numeric field overflow","timestamp":"2025-11-30T16:31:51.003Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 1d2ec49c-ec98-4712-9a14-3c9a3522d132: numeric field overflow","timestamp":"2025-11-30T16:31:51.003Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0263cb2a-f55e-432e-b68e-bba63c6c1593:","timestamp":"2025-11-30T16:31:53.051Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0263cb2a-f55e-432e-b68e-bba63c6c1593:","timestamp":"2025-11-30T16:31:54.727Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 121: numeric field overflow","timestamp":"2025-11-30T16:31:55.290Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0263cb2a-f55e-432e-b68e-bba63c6c1593: numeric field overflow","timestamp":"2025-11-30T16:31:55.290Z"}
+{"level":"error","message":"Error fetching VividSeats data for e43cd228-2b97-4535-94e8-0576ec8e9dbe:","timestamp":"2025-11-30T16:31:56.722Z"}
+{"level":"error","message":"Error fetching VividSeats data for e43cd228-2b97-4535-94e8-0576ec8e9dbe:","timestamp":"2025-11-30T16:31:58.713Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 122: numeric field overflow","timestamp":"2025-11-30T16:31:58.998Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event e43cd228-2b97-4535-94e8-0576ec8e9dbe: numeric field overflow","timestamp":"2025-11-30T16:31:58.998Z"}
+{"level":"error","message":"Error fetching VividSeats data for d95fb8d1-2969-48d8-84a7-48ae377931ae:","timestamp":"2025-11-30T16:32:00.829Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 123: numeric field overflow","timestamp":"2025-11-30T16:32:01.122Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event d95fb8d1-2969-48d8-84a7-48ae377931ae: numeric field overflow","timestamp":"2025-11-30T16:32:01.122Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:32:02.726Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:32:04.791Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 124: numeric field overflow","timestamp":"2025-11-30T16:32:05.079Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 6b06e0c0-42ce-488e-88a4-f81854594bc3: numeric field overflow","timestamp":"2025-11-30T16:32:05.079Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:32:06.853Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 125: numeric field overflow","timestamp":"2025-11-30T16:32:07.120Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 824dcec8-1442-4dd1-ba40-bb518f2251b8: numeric field overflow","timestamp":"2025-11-30T16:32:07.120Z"}
+{"level":"error","message":"Error fetching VividSeats data for a426f95a-44fd-4459-82e1-0556dedc5009:","timestamp":"2025-11-30T16:32:08.792Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 126: numeric field overflow","timestamp":"2025-11-30T16:32:09.070Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event a426f95a-44fd-4459-82e1-0556dedc5009: numeric field overflow","timestamp":"2025-11-30T16:32:09.070Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:32:10.783Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:32:12.776Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 127: numeric field overflow","timestamp":"2025-11-30T16:32:13.053Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event a377a566-10a8-4b04-a470-d9fb0089f939: numeric field overflow","timestamp":"2025-11-30T16:32:13.054Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:32:14.813Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:32:16.805Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:32:18.808Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 128: numeric field overflow","timestamp":"2025-11-30T16:32:19.099Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event c9ff0f32-76b7-4851-89c0-639bc952f903: numeric field overflow","timestamp":"2025-11-30T16:32:19.100Z"}
+{"level":"error","message":"Error fetching VividSeats data for eece1f0d-e6fe-4864-9961-a010bb43622d:","timestamp":"2025-11-30T16:32:21.144Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 129: numeric field overflow","timestamp":"2025-11-30T16:32:21.677Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event eece1f0d-e6fe-4864-9961-a010bb43622d: numeric field overflow","timestamp":"2025-11-30T16:32:21.677Z"}
+{"level":"error","message":"Error fetching VividSeats data for 12eb6a9e-6b9b-488b-97f7-62bbef78b07f:","timestamp":"2025-11-30T16:32:22.850Z"}
+{"level":"error","message":"Error fetching VividSeats data for 12eb6a9e-6b9b-488b-97f7-62bbef78b07f:","timestamp":"2025-11-30T16:32:24.832Z"}
+{"level":"error","message":"Error fetching VividSeats data for 12eb6a9e-6b9b-488b-97f7-62bbef78b07f:","timestamp":"2025-11-30T16:32:26.808Z"}
+{"level":"error","message":"Error fetching VividSeats data for 59d615cb-125a-4476-bb32-c450ae09f192:","timestamp":"2025-11-30T16:32:29.651Z"}
+{"level":"error","message":"Error fetching VividSeats data for 59d615cb-125a-4476-bb32-c450ae09f192:","timestamp":"2025-11-30T16:32:31.330Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 131: numeric field overflow","timestamp":"2025-11-30T16:32:31.607Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 59d615cb-125a-4476-bb32-c450ae09f192: numeric field overflow","timestamp":"2025-11-30T16:32:31.607Z"}
+{"level":"error","message":"Error fetching VividSeats data for ca3efe03-8b15-46a4-b486-0ac7e4b6f63c:","timestamp":"2025-11-30T16:32:33.345Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 132: numeric field overflow","timestamp":"2025-11-30T16:32:33.612Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ca3efe03-8b15-46a4-b486-0ac7e4b6f63c: numeric field overflow","timestamp":"2025-11-30T16:32:33.613Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:32:35.344Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:32:37.444Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:32:39.336Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T16:40:01.109Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 134: numeric field overflow","timestamp":"2025-11-30T16:40:01.434Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 86d99d11-bb0b-4ba9-9f1c-2432de86d08f: numeric field overflow","timestamp":"2025-11-30T16:40:01.434Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:40:02.900Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:40:04.935Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 135: numeric field overflow","timestamp":"2025-11-30T16:40:05.192Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3ab194da-2266-4136-9c97-6732a61f0022: numeric field overflow","timestamp":"2025-11-30T16:40:05.193Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:40:06.856Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:40:08.967Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:40:10.972Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:40:13.767Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:40:15.233Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:40:17.205Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 137: numeric field overflow","timestamp":"2025-11-30T16:40:17.498Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 2f952881-a813-4efc-8fe1-6d9d954655d9: numeric field overflow","timestamp":"2025-11-30T16:40:17.499Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:40:19.195Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 138: numeric field overflow","timestamp":"2025-11-30T16:40:19.483Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 7f84fc1a-3754-4955-8050-4488a6febd9a: numeric field overflow","timestamp":"2025-11-30T16:40:19.483Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:40:21.219Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:40:23.267Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 139: numeric field overflow","timestamp":"2025-11-30T16:40:23.551Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ffe37c45-5334-4c23-8e15-880710943cef: numeric field overflow","timestamp":"2025-11-30T16:40:23.551Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:40:25.329Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 140: numeric field overflow","timestamp":"2025-11-30T16:40:25.608Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event fa8a6c3c-3752-4905-a041-4e1679908aea: numeric field overflow","timestamp":"2025-11-30T16:40:25.608Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:40:27.298Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 141: numeric field overflow","timestamp":"2025-11-30T16:40:27.595Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 499a8fe1-216b-495a-a839-37bf289961b3: numeric field overflow","timestamp":"2025-11-30T16:40:27.595Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:40:29.239Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:40:31.320Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 142: numeric field overflow","timestamp":"2025-11-30T16:40:31.896Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 96c85ffc-02f6-40bb-838e-22cc53c9011f: numeric field overflow","timestamp":"2025-11-30T16:40:31.897Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:40:33.256Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:40:35.466Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 143: numeric field overflow","timestamp":"2025-11-30T16:40:35.751Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 08e737d2-f190-44e7-a137-e9a81db45412: numeric field overflow","timestamp":"2025-11-30T16:40:35.752Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:40:37.257Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:40:39.256Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:40:41.336Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 144: numeric field overflow","timestamp":"2025-11-30T16:40:41.606Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 75858755-ef26-4459-a572-fde948dd22e0: numeric field overflow","timestamp":"2025-11-30T16:40:41.607Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T16:40:43.365Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 145: numeric field overflow","timestamp":"2025-11-30T16:40:43.643Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3f8c258b-739c-4787-ab90-e9e479ad56d3: numeric field overflow","timestamp":"2025-11-30T16:40:43.643Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:40:45.294Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:40:47.340Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 146: numeric field overflow","timestamp":"2025-11-30T16:40:47.737Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event f6d9edb7-7333-4e91-811f-3e4d0e742ba5: numeric field overflow","timestamp":"2025-11-30T16:40:47.737Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:40:49.329Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 147: numeric field overflow","timestamp":"2025-11-30T16:40:49.599Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event c631aea5-48c0-40ca-8a33-ad1b9180ae16: numeric field overflow","timestamp":"2025-11-30T16:40:49.600Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:40:51.330Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 148: numeric field overflow","timestamp":"2025-11-30T16:40:51.602Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ea4d17ff-fc98-45d1-9489-2f6af7a612e6: numeric field overflow","timestamp":"2025-11-30T16:40:51.602Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:40:53.308Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 149: numeric field overflow","timestamp":"2025-11-30T16:40:53.589Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 47e918bd-9318-4ba2-a194-b019a776cfdb: numeric field overflow","timestamp":"2025-11-30T16:40:53.590Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T16:40:55.357Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T16:40:57.382Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 150: numeric field overflow","timestamp":"2025-11-30T16:40:57.667Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0cfc8310-0e24-42a9-87e6-f669380f674b: numeric field overflow","timestamp":"2025-11-30T16:40:57.668Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T16:40:59.329Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 151: numeric field overflow","timestamp":"2025-11-30T16:40:59.595Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 74f92836-f44c-4d7a-91aa-e8c88db1af69: numeric field overflow","timestamp":"2025-11-30T16:40:59.595Z"}
+{"level":"error","message":"Error fetching VividSeats data for edded757-da88-42e7-b028-44cd5e83f716:","timestamp":"2025-11-30T16:41:01.430Z"}
+{"level":"error","message":"Error fetching VividSeats data for edded757-da88-42e7-b028-44cd5e83f716:","timestamp":"2025-11-30T16:41:03.458Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 152: numeric field overflow","timestamp":"2025-11-30T16:41:03.739Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event edded757-da88-42e7-b028-44cd5e83f716: numeric field overflow","timestamp":"2025-11-30T16:41:03.739Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:41:05.343Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:41:07.349Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:41:09.376Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:41:11.580Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 154: numeric field overflow","timestamp":"2025-11-30T16:41:11.862Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 4d193020-a6bc-40e3-ae25-95a77f983953: numeric field overflow","timestamp":"2025-11-30T16:41:11.863Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:41:13.996Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:41:15.746Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:41:17.645Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:41:19.892Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:41:21.923Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:41:24.069Z"}
+{"level":"error","message":"Error fetching VividSeats data for db2b4b36-b383-47da-b7d7-ba6c470c9aa5:","timestamp":"2025-11-30T16:41:26.288Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 157: numeric field overflow","timestamp":"2025-11-30T16:41:26.562Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event db2b4b36-b383-47da-b7d7-ba6c470c9aa5: numeric field overflow","timestamp":"2025-11-30T16:41:26.563Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:41:28.308Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:41:30.311Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:41:32.351Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:41:34.644Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:41:36.639Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 159: numeric field overflow","timestamp":"2025-11-30T16:41:36.929Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 981707bc-8719-4d9b-ade5-442c8d470b32: numeric field overflow","timestamp":"2025-11-30T16:41:36.930Z"}
+{"level":"error","message":"Error fetching VividSeats data for e2b3ab85-3f00-4a3b-aa97-08b4e2bea215:","timestamp":"2025-11-30T16:41:38.716Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 160: numeric field overflow","timestamp":"2025-11-30T16:41:39.016Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event e2b3ab85-3f00-4a3b-aa97-08b4e2bea215: numeric field overflow","timestamp":"2025-11-30T16:41:39.016Z"}
+{"level":"error","message":"Error fetching VividSeats data for 1d2ec49c-ec98-4712-9a14-3c9a3522d132:","timestamp":"2025-11-30T16:41:40.575Z"}
+{"level":"error","message":"Error fetching VividSeats data for 1d2ec49c-ec98-4712-9a14-3c9a3522d132:","timestamp":"2025-11-30T16:41:42.702Z"}
+{"level":"error","message":"Error fetching VividSeats data for 1d2ec49c-ec98-4712-9a14-3c9a3522d132:","timestamp":"2025-11-30T16:41:44.619Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0263cb2a-f55e-432e-b68e-bba63c6c1593:","timestamp":"2025-11-30T16:41:47.169Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 162: numeric field overflow","timestamp":"2025-11-30T16:41:47.472Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0263cb2a-f55e-432e-b68e-bba63c6c1593: numeric field overflow","timestamp":"2025-11-30T16:41:47.472Z"}
+{"level":"error","message":"Error fetching VividSeats data for e43cd228-2b97-4535-94e8-0576ec8e9dbe:","timestamp":"2025-11-30T16:41:48.843Z"}
+{"level":"error","message":"Error fetching VividSeats data for e43cd228-2b97-4535-94e8-0576ec8e9dbe:","timestamp":"2025-11-30T16:41:50.900Z"}
+{"level":"error","message":"Error fetching VividSeats data for e43cd228-2b97-4535-94e8-0576ec8e9dbe:","timestamp":"2025-11-30T16:41:53.014Z"}
+{"level":"error","message":"Error fetching VividSeats data for d95fb8d1-2969-48d8-84a7-48ae377931ae:","timestamp":"2025-11-30T16:41:55.245Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 164: numeric field overflow","timestamp":"2025-11-30T16:41:55.556Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event d95fb8d1-2969-48d8-84a7-48ae377931ae: numeric field overflow","timestamp":"2025-11-30T16:41:55.557Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:41:57.242Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:41:59.265Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:42:01.300Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 165: numeric field overflow","timestamp":"2025-11-30T16:42:01.676Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 6b06e0c0-42ce-488e-88a4-f81854594bc3: numeric field overflow","timestamp":"2025-11-30T16:42:01.677Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:42:03.271Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:42:05.273Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 166: numeric field overflow","timestamp":"2025-11-30T16:42:05.563Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 824dcec8-1442-4dd1-ba40-bb518f2251b8: numeric field overflow","timestamp":"2025-11-30T16:42:05.564Z"}
+{"level":"error","message":"Error fetching VividSeats data for a426f95a-44fd-4459-82e1-0556dedc5009:","timestamp":"2025-11-30T16:42:07.271Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 167: numeric field overflow","timestamp":"2025-11-30T16:42:07.545Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event a426f95a-44fd-4459-82e1-0556dedc5009: numeric field overflow","timestamp":"2025-11-30T16:42:07.545Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:42:09.339Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:42:11.479Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:42:13.311Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:42:16.075Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:42:18.169Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 169: numeric field overflow","timestamp":"2025-11-30T16:42:18.444Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event c9ff0f32-76b7-4851-89c0-639bc952f903: numeric field overflow","timestamp":"2025-11-30T16:42:18.444Z"}
+{"level":"error","message":"Error fetching VividSeats data for eece1f0d-e6fe-4864-9961-a010bb43622d:","timestamp":"2025-11-30T16:42:20.166Z"}
+{"level":"error","message":"Error fetching VividSeats data for eece1f0d-e6fe-4864-9961-a010bb43622d:","timestamp":"2025-11-30T16:42:22.086Z"}
+{"level":"error","message":"Error fetching VividSeats data for eece1f0d-e6fe-4864-9961-a010bb43622d:","timestamp":"2025-11-30T16:42:24.093Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 170: numeric field overflow","timestamp":"2025-11-30T16:42:24.364Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event eece1f0d-e6fe-4864-9961-a010bb43622d: numeric field overflow","timestamp":"2025-11-30T16:42:24.365Z"}
+{"level":"error","message":"Error fetching VividSeats data for 12eb6a9e-6b9b-488b-97f7-62bbef78b07f:","timestamp":"2025-11-30T16:42:26.133Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 171: numeric field overflow","timestamp":"2025-11-30T16:42:26.418Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 12eb6a9e-6b9b-488b-97f7-62bbef78b07f: numeric field overflow","timestamp":"2025-11-30T16:42:26.418Z"}
+{"level":"error","message":"Error fetching VividSeats data for 59d615cb-125a-4476-bb32-c450ae09f192:","timestamp":"2025-11-30T16:42:28.135Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 172: numeric field overflow","timestamp":"2025-11-30T16:42:28.410Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 59d615cb-125a-4476-bb32-c450ae09f192: numeric field overflow","timestamp":"2025-11-30T16:42:28.410Z"}
+{"level":"error","message":"Error fetching VividSeats data for ca3efe03-8b15-46a4-b486-0ac7e4b6f63c:","timestamp":"2025-11-30T16:42:30.107Z"}
+{"level":"error","message":"Error fetching VividSeats data for ca3efe03-8b15-46a4-b486-0ac7e4b6f63c:","timestamp":"2025-11-30T16:42:32.122Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 173: numeric field overflow","timestamp":"2025-11-30T16:42:32.408Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ca3efe03-8b15-46a4-b486-0ac7e4b6f63c: numeric field overflow","timestamp":"2025-11-30T16:42:32.409Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:42:34.153Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:42:36.629Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 174: numeric field overflow","timestamp":"2025-11-30T16:42:37.230Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 9bd4054b-03d0-4aae-a394-0760c8d96c4f: numeric field overflow","timestamp":"2025-11-30T16:42:37.231Z"}
+{"level":"error","message":"Error fetching VividSeats data for 86d99d11-bb0b-4ba9-9f1c-2432de86d08f:","timestamp":"2025-11-30T16:50:02.221Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 175: numeric field overflow","timestamp":"2025-11-30T16:50:02.589Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 86d99d11-bb0b-4ba9-9f1c-2432de86d08f: numeric field overflow","timestamp":"2025-11-30T16:50:02.590Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:50:03.794Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:50:05.794Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3ab194da-2266-4136-9c97-6732a61f0022:","timestamp":"2025-11-30T16:50:07.814Z"}
+{"level":"error","message":"Error fetching VividSeats data for 698dbf9a-f7be-4985-b892-c699f51a1476:","timestamp":"2025-11-30T16:50:10.113Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 177: numeric field overflow","timestamp":"2025-11-30T16:50:10.446Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 698dbf9a-f7be-4985-b892-c699f51a1476: numeric field overflow","timestamp":"2025-11-30T16:50:10.447Z"}
+{"level":"error","message":"Error fetching VividSeats data for 2f952881-a813-4efc-8fe1-6d9d954655d9:","timestamp":"2025-11-30T16:50:12.119Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 178: numeric field overflow","timestamp":"2025-11-30T16:50:12.437Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 2f952881-a813-4efc-8fe1-6d9d954655d9: numeric field overflow","timestamp":"2025-11-30T16:50:12.438Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:50:14.194Z"}
+{"level":"error","message":"Error fetching VividSeats data for 7f84fc1a-3754-4955-8050-4488a6febd9a:","timestamp":"2025-11-30T16:50:16.563Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 179: numeric field overflow","timestamp":"2025-11-30T16:50:16.871Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 7f84fc1a-3754-4955-8050-4488a6febd9a: numeric field overflow","timestamp":"2025-11-30T16:50:16.872Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:50:18.205Z"}
+{"level":"error","message":"Error fetching VividSeats data for ffe37c45-5334-4c23-8e15-880710943cef:","timestamp":"2025-11-30T16:50:20.128Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 180: numeric field overflow","timestamp":"2025-11-30T16:50:20.408Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ffe37c45-5334-4c23-8e15-880710943cef: numeric field overflow","timestamp":"2025-11-30T16:50:20.408Z"}
+{"level":"error","message":"Error fetching VividSeats data for fa8a6c3c-3752-4905-a041-4e1679908aea:","timestamp":"2025-11-30T16:50:22.141Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 181: numeric field overflow","timestamp":"2025-11-30T16:50:22.417Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event fa8a6c3c-3752-4905-a041-4e1679908aea: numeric field overflow","timestamp":"2025-11-30T16:50:22.418Z"}
+{"level":"error","message":"Error fetching VividSeats data for 499a8fe1-216b-495a-a839-37bf289961b3:","timestamp":"2025-11-30T16:50:24.171Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 182: numeric field overflow","timestamp":"2025-11-30T16:50:24.462Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 499a8fe1-216b-495a-a839-37bf289961b3: numeric field overflow","timestamp":"2025-11-30T16:50:24.463Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:50:26.187Z"}
+{"level":"error","message":"Error fetching VividSeats data for 96c85ffc-02f6-40bb-838e-22cc53c9011f:","timestamp":"2025-11-30T16:50:28.181Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 183: numeric field overflow","timestamp":"2025-11-30T16:50:28.454Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 96c85ffc-02f6-40bb-838e-22cc53c9011f: numeric field overflow","timestamp":"2025-11-30T16:50:28.454Z"}
+{"level":"error","message":"Error fetching VividSeats data for 08e737d2-f190-44e7-a137-e9a81db45412:","timestamp":"2025-11-30T16:50:30.195Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 184: numeric field overflow","timestamp":"2025-11-30T16:50:30.469Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 08e737d2-f190-44e7-a137-e9a81db45412: numeric field overflow","timestamp":"2025-11-30T16:50:30.470Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:50:32.224Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:50:34.192Z"}
+{"level":"error","message":"Error fetching VividSeats data for 75858755-ef26-4459-a572-fde948dd22e0:","timestamp":"2025-11-30T16:50:36.629Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 185: numeric field overflow","timestamp":"2025-11-30T16:50:36.927Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 75858755-ef26-4459-a572-fde948dd22e0: numeric field overflow","timestamp":"2025-11-30T16:50:36.927Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T16:50:38.253Z"}
+{"level":"error","message":"Error fetching VividSeats data for 3f8c258b-739c-4787-ab90-e9e479ad56d3:","timestamp":"2025-11-30T16:50:40.264Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 186: numeric field overflow","timestamp":"2025-11-30T16:50:40.545Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 3f8c258b-739c-4787-ab90-e9e479ad56d3: numeric field overflow","timestamp":"2025-11-30T16:50:40.545Z"}
+{"level":"error","message":"Error fetching VividSeats data for f6d9edb7-7333-4e91-811f-3e4d0e742ba5:","timestamp":"2025-11-30T16:50:42.271Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 187: numeric field overflow","timestamp":"2025-11-30T16:50:42.637Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event f6d9edb7-7333-4e91-811f-3e4d0e742ba5: numeric field overflow","timestamp":"2025-11-30T16:50:42.638Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:50:44.236Z"}
+{"level":"error","message":"Error fetching VividSeats data for c631aea5-48c0-40ca-8a33-ad1b9180ae16:","timestamp":"2025-11-30T16:50:46.270Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 188: numeric field overflow","timestamp":"2025-11-30T16:50:46.537Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event c631aea5-48c0-40ca-8a33-ad1b9180ae16: numeric field overflow","timestamp":"2025-11-30T16:50:46.539Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:50:48.277Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:50:50.323Z"}
+{"level":"error","message":"Error fetching VividSeats data for ea4d17ff-fc98-45d1-9489-2f6af7a612e6:","timestamp":"2025-11-30T16:50:52.289Z"}
+{"level":"error","message":"Error fetching VividSeats data for 47e918bd-9318-4ba2-a194-b019a776cfdb:","timestamp":"2025-11-30T16:50:54.554Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 190: numeric field overflow","timestamp":"2025-11-30T16:50:54.842Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 47e918bd-9318-4ba2-a194-b019a776cfdb: numeric field overflow","timestamp":"2025-11-30T16:50:54.842Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T16:50:57.076Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0cfc8310-0e24-42a9-87e6-f669380f674b:","timestamp":"2025-11-30T16:50:58.613Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 191: numeric field overflow","timestamp":"2025-11-30T16:50:58.902Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0cfc8310-0e24-42a9-87e6-f669380f674b: numeric field overflow","timestamp":"2025-11-30T16:50:58.902Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T16:51:00.559Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T16:51:02.552Z"}
+{"level":"error","message":"Error fetching VividSeats data for 74f92836-f44c-4d7a-91aa-e8c88db1af69:","timestamp":"2025-11-30T16:51:04.595Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 192: numeric field overflow","timestamp":"2025-11-30T16:51:04.870Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 74f92836-f44c-4d7a-91aa-e8c88db1af69: numeric field overflow","timestamp":"2025-11-30T16:51:04.870Z"}
+{"level":"error","message":"Error fetching VividSeats data for edded757-da88-42e7-b028-44cd5e83f716:","timestamp":"2025-11-30T16:51:06.571Z"}
+{"level":"error","message":"Error fetching VividSeats data for edded757-da88-42e7-b028-44cd5e83f716:","timestamp":"2025-11-30T16:51:08.576Z"}
+{"level":"error","message":"Error fetching VividSeats data for edded757-da88-42e7-b028-44cd5e83f716:","timestamp":"2025-11-30T16:51:10.604Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 193: numeric field overflow","timestamp":"2025-11-30T16:51:10.904Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event edded757-da88-42e7-b028-44cd5e83f716: numeric field overflow","timestamp":"2025-11-30T16:51:10.904Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:51:12.595Z"}
+{"level":"error","message":"Error fetching VividSeats data for 89c985d1-b12f-4bff-b42c-08bb8d4cd621:","timestamp":"2025-11-30T16:51:14.616Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 194: numeric field overflow","timestamp":"2025-11-30T16:51:14.893Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 89c985d1-b12f-4bff-b42c-08bb8d4cd621: numeric field overflow","timestamp":"2025-11-30T16:51:14.898Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:51:17.040Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:51:18.641Z"}
+{"level":"error","message":"Error fetching VividSeats data for 4d193020-a6bc-40e3-ae25-95a77f983953:","timestamp":"2025-11-30T16:51:20.644Z"}
+{"level":"error","message":"Error fetching VividSeats data for ab171f4b-68a0-4891-a556-55c08adf7c5d:","timestamp":"2025-11-30T16:51:22.933Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 196: numeric field overflow","timestamp":"2025-11-30T16:51:23.217Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ab171f4b-68a0-4891-a556-55c08adf7c5d: numeric field overflow","timestamp":"2025-11-30T16:51:23.217Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:51:24.941Z"}
+{"level":"error","message":"Error fetching VividSeats data for 05f48baa-a0a6-4384-8483-a16dedcd0cac:","timestamp":"2025-11-30T16:51:26.973Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 197: numeric field overflow","timestamp":"2025-11-30T16:51:27.277Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 05f48baa-a0a6-4384-8483-a16dedcd0cac: numeric field overflow","timestamp":"2025-11-30T16:51:27.277Z"}
+{"level":"error","message":"Error fetching VividSeats data for db2b4b36-b383-47da-b7d7-ba6c470c9aa5:","timestamp":"2025-11-30T16:51:28.892Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 198: numeric field overflow","timestamp":"2025-11-30T16:51:29.178Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event db2b4b36-b383-47da-b7d7-ba6c470c9aa5: numeric field overflow","timestamp":"2025-11-30T16:51:29.178Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:51:30.894Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:51:32.895Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6a9c09ce-54ea-4079-8fc0-3e831882c011:","timestamp":"2025-11-30T16:51:34.908Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:51:37.118Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:51:39.124Z"}
+{"level":"error","message":"Error fetching VividSeats data for 981707bc-8719-4d9b-ade5-442c8d470b32:","timestamp":"2025-11-30T16:51:41.168Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 200: numeric field overflow","timestamp":"2025-11-30T16:51:41.453Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 981707bc-8719-4d9b-ade5-442c8d470b32: numeric field overflow","timestamp":"2025-11-30T16:51:41.453Z"}
+{"level":"error","message":"Error fetching VividSeats data for e2b3ab85-3f00-4a3b-aa97-08b4e2bea215:","timestamp":"2025-11-30T16:51:43.139Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 201: numeric field overflow","timestamp":"2025-11-30T16:51:43.419Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event e2b3ab85-3f00-4a3b-aa97-08b4e2bea215: numeric field overflow","timestamp":"2025-11-30T16:51:43.419Z"}
+{"level":"error","message":"Error fetching VividSeats data for 1d2ec49c-ec98-4712-9a14-3c9a3522d132:","timestamp":"2025-11-30T16:51:45.199Z"}
+{"level":"error","message":"Error fetching VividSeats data for 1d2ec49c-ec98-4712-9a14-3c9a3522d132:","timestamp":"2025-11-30T16:51:47.163Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 202: numeric field overflow","timestamp":"2025-11-30T16:51:47.442Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 1d2ec49c-ec98-4712-9a14-3c9a3522d132: numeric field overflow","timestamp":"2025-11-30T16:51:47.442Z"}
+{"level":"error","message":"Error fetching VividSeats data for 0263cb2a-f55e-432e-b68e-bba63c6c1593:","timestamp":"2025-11-30T16:51:49.165Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 203: numeric field overflow","timestamp":"2025-11-30T16:51:49.443Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 0263cb2a-f55e-432e-b68e-bba63c6c1593: numeric field overflow","timestamp":"2025-11-30T16:51:49.443Z"}
+{"level":"error","message":"Error fetching VividSeats data for e43cd228-2b97-4535-94e8-0576ec8e9dbe:","timestamp":"2025-11-30T16:51:51.167Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 204: numeric field overflow","timestamp":"2025-11-30T16:51:51.462Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event e43cd228-2b97-4535-94e8-0576ec8e9dbe: numeric field overflow","timestamp":"2025-11-30T16:51:51.462Z"}
+{"level":"error","message":"Error fetching VividSeats data for d95fb8d1-2969-48d8-84a7-48ae377931ae:","timestamp":"2025-11-30T16:51:53.227Z"}
+{"level":"error","message":"Error fetching VividSeats data for d95fb8d1-2969-48d8-84a7-48ae377931ae:","timestamp":"2025-11-30T16:51:55.409Z"}
+{"level":"error","message":"Error fetching VividSeats data for d95fb8d1-2969-48d8-84a7-48ae377931ae:","timestamp":"2025-11-30T16:51:57.191Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:51:59.648Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:52:01.660Z"}
+{"level":"error","message":"Error fetching VividSeats data for 6b06e0c0-42ce-488e-88a4-f81854594bc3:","timestamp":"2025-11-30T16:52:03.651Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:52:05.907Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:52:07.860Z"}
+{"level":"error","message":"Error fetching VividSeats data for 824dcec8-1442-4dd1-ba40-bb518f2251b8:","timestamp":"2025-11-30T16:52:09.986Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 207: numeric field overflow","timestamp":"2025-11-30T16:52:10.255Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 824dcec8-1442-4dd1-ba40-bb518f2251b8: numeric field overflow","timestamp":"2025-11-30T16:52:10.256Z"}
+{"level":"error","message":"Error fetching VividSeats data for a426f95a-44fd-4459-82e1-0556dedc5009:","timestamp":"2025-11-30T16:52:12.036Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 208: numeric field overflow","timestamp":"2025-11-30T16:52:12.316Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event a426f95a-44fd-4459-82e1-0556dedc5009: numeric field overflow","timestamp":"2025-11-30T16:52:12.317Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:52:13.898Z"}
+{"level":"error","message":"Error fetching VividSeats data for a377a566-10a8-4b04-a470-d9fb0089f939:","timestamp":"2025-11-30T16:52:16.378Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 209: numeric field overflow","timestamp":"2025-11-30T16:52:16.653Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event a377a566-10a8-4b04-a470-d9fb0089f939: numeric field overflow","timestamp":"2025-11-30T16:52:16.653Z"}
+{"level":"error","message":"Error fetching VividSeats data for c9ff0f32-76b7-4851-89c0-639bc952f903:","timestamp":"2025-11-30T16:52:18.898Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 210: numeric field overflow","timestamp":"2025-11-30T16:52:19.169Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event c9ff0f32-76b7-4851-89c0-639bc952f903: numeric field overflow","timestamp":"2025-11-30T16:52:19.169Z"}
+{"level":"error","message":"Error fetching VividSeats data for eece1f0d-e6fe-4864-9961-a010bb43622d:","timestamp":"2025-11-30T16:52:19.932Z"}
+{"level":"error","message":"Error fetching VividSeats data for eece1f0d-e6fe-4864-9961-a010bb43622d:","timestamp":"2025-11-30T16:52:22.013Z"}
+{"level":"error","message":"Error fetching VividSeats data for eece1f0d-e6fe-4864-9961-a010bb43622d:","timestamp":"2025-11-30T16:52:23.972Z"}
+{"level":"error","message":"Error fetching VividSeats data for 12eb6a9e-6b9b-488b-97f7-62bbef78b07f:","timestamp":"2025-11-30T16:52:26.207Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 212: numeric field overflow","timestamp":"2025-11-30T16:52:26.486Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 12eb6a9e-6b9b-488b-97f7-62bbef78b07f: numeric field overflow","timestamp":"2025-11-30T16:52:26.486Z"}
+{"level":"error","message":"Error fetching VividSeats data for 59d615cb-125a-4476-bb32-c450ae09f192:","timestamp":"2025-11-30T16:52:28.286Z"}
+{"level":"error","message":"Error fetching VividSeats data for 59d615cb-125a-4476-bb32-c450ae09f192:","timestamp":"2025-11-30T16:52:30.238Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 213: numeric field overflow","timestamp":"2025-11-30T16:52:30.527Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event 59d615cb-125a-4476-bb32-c450ae09f192: numeric field overflow","timestamp":"2025-11-30T16:52:30.528Z"}
+{"level":"error","message":"Error fetching VividSeats data for ca3efe03-8b15-46a4-b486-0ac7e4b6f63c:","timestamp":"2025-11-30T16:52:32.199Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Failed scrape job 214: numeric field overflow","timestamp":"2025-11-30T16:52:32.478Z"}
+{"code":"22003","details":"A field with precision 3, scale 2 must round to an absolute value less than 10^1.","hint":null,"level":"error","message":"Error scraping event ca3efe03-8b15-46a4-b486-0ac7e4b6f63c: numeric field overflow","timestamp":"2025-11-30T16:52:32.478Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:52:34.331Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:52:36.616Z"}
+{"level":"error","message":"Error fetching VividSeats data for 9bd4054b-03d0-4aae-a394-0760c8d96c4f:","timestamp":"2025-11-30T16:52:38.206Z"}
